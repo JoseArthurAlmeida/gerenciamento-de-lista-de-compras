@@ -5,7 +5,7 @@ import { MaterialCommunityIcons } from "@expo/vector-icons";
 export default function TabLayout() {
 	return (
 		<Tabs
-      initialRouteName="dispensa"
+      initialRouteName="Dispensa"
       screenOptions={{
         // --- Estilos da Barra Inferior (Abas) ---
         tabBarActiveTintColor: '#2196F3',
